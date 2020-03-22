@@ -1,0 +1,1 @@
+lisp interpreter result result.txt içine yazılmıstır >>>
